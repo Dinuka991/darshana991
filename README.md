@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+ 🌱 I am Full-stack Engineer , Freelancer & Entrepreneur
+ 
+ 🔭 I’m currently working on Allianz 
+ 
+ 
+ 
+ 
+ [![Dinuka's github stats](https://github-readme-stats.vercel.app/api?username=darshana991)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **darshana991/darshana991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

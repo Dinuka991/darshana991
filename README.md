@@ -1,8 +1,12 @@
 ### Hi there 👋
 
- 🌱 I am Full-stack Engineer , Freelancer & Entrepreneur
+ 🌱 I am Full-stack Engineer..............!
  
  🔭 I’m currently working on Allianz 
+ 
+ 📫 How to reach me  https://lk.linkedin.com/in/darshana-ekanayake
+ 
+
  
  
  
